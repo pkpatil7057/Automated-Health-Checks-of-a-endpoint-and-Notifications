@@ -1,0 +1,14 @@
+# Ignore Python bytecode files
+__pycache__/
+*.pyc
+
+# Ignore configuration files with sensitive information
+config.json
+
+# Ignore logs if you plan to add logging functionality
+*.log
+
+# Ignore environment files if using a virtual environment in the project directory
+.env
+venv/
+
